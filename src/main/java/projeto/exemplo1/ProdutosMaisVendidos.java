@@ -1,4 +1,4 @@
-package projeto.operacoes;
+package projeto.exemplo1;
 
 import java.util.Comparator;
 import java.util.Map;
